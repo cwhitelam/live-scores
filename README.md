@@ -1,8 +1,12 @@
 # Project Live Score
 
-[Live Demo](https://serene-melomakarona-8847ea.netlify.app/)
+[Check it out here](https://serene-melomakarona-8847ea.netlify.app/)
 
 A modern, real-time sports statistics and scoring platform built with React and TypeScript. This application provides live game updates, player statistics, and an interactive user interface for multiple professional sports leagues.
+
+## Purpose
+
+Project Live Score is designed to enhance social sports viewing experiences. Whether you're hosting a game day party, at a sports bar, or just want to keep track of multiple games, our platform provides a clean, professional scoreboard display with real-time updates. Perfect for venues, social gatherings, or any setting where you want to keep everyone informed of the action across multiple games.
 
 ## Features
 
