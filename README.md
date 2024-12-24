@@ -1,5 +1,7 @@
 # Project Live Score
 
+`https://serene-melomakarona-8847ea.netlify.app/`
+
 A modern, real-time sports statistics and scoring platform built with React and TypeScript. This application provides live game updates, player statistics, and an interactive user interface for multiple professional sports leagues.
 
 ## Features
